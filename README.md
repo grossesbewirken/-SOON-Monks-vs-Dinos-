@@ -9,13 +9,13 @@ ghdfjg kldsfghl hdfkkghl sdflkgdfh hgklsdfj ghldfgh sdfhgsdfklghfsdkjlgfdh gfdg 
 
 ### Ankylosaurus
 * gfdgsd
-* ### Tyrannosaurus Rex
+### Tyrannosaurus Rex
 * Tyrannosaurus Rex
-* ### Pteranodon
+### Pteranodon
 * Pteranodon
-* ### Dilophosaurus
+### Dilophosaurus
 * Dilophosaurus
-* ### Veloceraptor
+### Veloceraptor
 * Veloceraptor
 
 ghdfjg kldsfghl hdfkkghl sdflkgdfh hgklsdfj ghldfgh sdfhgsdfklghfsdkjlgfdh gfdg sdfklghkksdf kglsdfg hdsfklghdfslghd fklgdfg dfklghdsk sdfghlkgh dfshgk hdflskg hsdfklghsdfklg
