@@ -1,7 +1,7 @@
 function fight(enemy) {
     enemy.life -= this.attack;
     console.log(`${this.name} fight ${enemy.name}(${enemy.life})`);
-  }
+  };
   
   const doomGuy = {
     name: 'Doomguy',
