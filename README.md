@@ -7,15 +7,11 @@ ghdfjg kldsfghl hdfkkghl sdflkgdfh hgklsdfj ghldfgh sdfhgsdfklghfsdkjlgfdh gfdg 
 ## The Dinos
 ghdfjg kldsfghl hdfkkghl sdflkgdfh hgklsdfj ghldfgh sdfhgsdfklghfsdkjlgfdh gfdg sdfklghkksdf kglsdfg hdsfklghdfslghd fklgdfg dfklghdsk sdfghlkgh dfshgk hdflskg hsdfklghsdfklg
 
-### Ankylosaurus
-* gfdgsd
-### Tyrannosaurus Rex
+* Ankylosaurus
 * Tyrannosaurus Rex
-### Pteranodon
 * Pteranodon
-### Dilophosaurus
+* 
 * Dilophosaurus
-### Veloceraptor
 * Veloceraptor
 
 ghdfjg kldsfghl hdfkkghl sdflkgdfh hgklsdfj ghldfgh sdfhgsdfklghfsdkjlgfdh gfdg sdfklghkksdf kglsdfg hdsfklghdfslghd fklgdfg dfklghdsk sdfghlkgh dfshgk hdflskg hsdfklghsdfklg
@@ -24,19 +20,10 @@ ghdfjg kldsfghl hdfkkghl sdflkgdfh hgklsdfj ghldfgh sdfhgsdfklghfsdkjlgfdh gfdg 
 ## The Monks
 ghdfjg kldsfghl hdfkkghl sdflkgdfh hgklsdfj ghldfgh sdfhgsdfklghfsdkjlgfdh gfdg sdfklghkksdf kglsdfg hdsfklghdfslghd fklgdfg dfklghdsk sdfghlkgh dfshgk hdflskg hsdfklghsdfklg
 
-### Rock Solid Rocky
 * Rock Solid Rocky
-  
-### Thunder Punch Theo
 * Thunder Punch Theo
-
-### Battel Staff Barney
-* battle Staff Barney
-
-### Chopstick Charlie
+* Battle Staff Barney
 * Chopstick Charlie
-
-### Longsword Lewis
 * Longsword Lewis
 
 ghdfjg kldsfghl hdfkkghl sdflkgdfh hgklsdfj ghldfgh sdfhgsdfklghfsdkjlgfdh gfdg sdfklghkksdf kglsdfg hdsfklghdfslghd fklgdfg dfklghdsk sdfghlkgh dfshgk hdflskg hsdfklghsdfklg
