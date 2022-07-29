@@ -30,7 +30,7 @@ ghdfjg kldsfghl hdfkkghl sdflkgdfh hgklsdfj ghldfgh sdfhgsdfklghfsdkjlgfdh gfdg 
     Sein Handschlag spaltet alles
 * ### **"Battle Staff Barney": 
     Dir immer eine Stablänge voraus
-* **"Chopstick Charlie":** 
+* ### **"Chopstick Charlie":** 
     Der Hagelsturm aus der Küche
 * ### **"Longsword Lewis":
     Dinos haben Krallen, wir haben ihn!
