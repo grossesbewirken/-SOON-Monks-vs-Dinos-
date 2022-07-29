@@ -24,15 +24,15 @@ ghdfjg kldsfghl hdfkkghl sdflkgdfh hgklsdfj ghldfgh sdfhgsdfklghfsdkjlgfdh gfdg 
 ## The Monks
 ghdfjg kldsfghl hdfkkghl sdflkgdfh hgklsdfj ghldfgh sdfhgsdfklghfsdkjlgfdh gfdg sdfklghkksdf kglsdfg hdsfklghdfslghd fklgdfg dfklghdsk sdfghlkgh dfshgk hdflskg hsdfklghsdfklg
 
-* #### "Rock Solid Rocky":
+* ### *"Rock Solid Rocky"*:
     Der unerschütterliche Fels in der Brandung
-* #### "Thunder Punch Theo": 
+* ### "Thunder Punch Theo": 
     Sein Handschlag spaltet alles
-* #### "Battle Staff Barney": 
+* ### "Battle Staff Barney": 
     Dir immer eine Stablänge voraus
-* #### "Chopstick Charlie": 
+* ### "Chopstick Charlie": 
     Der Hagelsturm aus der Küche
-* #### "Longsword Lewis":
+* ### "Longsword Lewis":
     Dinos haben Krallen, wir haben ihn!
 
 ghdfjg kldsfghl hdfkkghl sdflkgdfh hgklsdfj ghldfgh sdfhgsdfklghfsdkjlgfdh gfdg sdfklghkksdf kglsdfg hdsfklghdfslghd fklgdfg dfklghdsk sdfghlkgh dfshgk hdflskg hsdfklghsdfklg
