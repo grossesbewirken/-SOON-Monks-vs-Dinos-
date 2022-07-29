@@ -1,4 +1,5 @@
 # Monks Against Dinos
+Du beantwortet die größte Frage der Menschheitsgeschichte! Wer gewinnt bei dem Kampf "Mönch gegen Dinosaurier"! In dieser JavaScript-Arena treten die fünf härtesten Shaolin-Mönche der Welt gegen die fünf berühmtesten Dinosaurier aller Zeiten an.
 
 ## Subheadline
 a javascript project that became a tiny tiny js-game
