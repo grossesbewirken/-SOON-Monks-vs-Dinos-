@@ -8,9 +8,9 @@ ghdfjg kldsfghl hdfkkghl sdflkgdfh hgklsdfj ghldfgh sdfhgsdfklghfsdkjlgfdh gfdg 
 ghdfjg kldsfghl hdfkkghl sdflkgdfh hgklsdfj ghldfgh sdfhgsdfklghfsdkjlgfdh gfdg sdfklghkksdf kglsdfg hdsfklghdfslghd fklgdfg dfklghdsk sdfghlkgh dfshgk hdflskg hsdfklghsdfklg
 
 * ### Ankylosaurus: 
-            Der "lebende Panzer" ist extrem schwer zu knacken! ghdfjg kldsfghl hdfkkghl sdflkgdfh hgklsdfj ghldfgh sdfhgsdfklghfsdkjlgfdh gfdg sdfklghkksdf kglsdfg hdsfklghdfslghd fklgdfg dfklghdsk sdfghlkgh dfshgk hdflskg hsdfklghsdfklgfdsfsafadsdfsaf
+    Der "lebende Panzer" ist extrem schwer zu knacken! ghdfjg kldsfghl hdfkkghl sdflkgdfh hgklsdfj ghldfgh sdfhgsdfklghfsdkjlgfdh gfdg sdfklghkksdf kglsdfg hdsfklghdfslghd fklgdfg dfklghdsk sdfghlkgh dfshgk hdflskg hsdfklghsdfklgfdsfsafadsdfsaf
 * ### Tyrannosaurus Rex:
-        6 Tonnen schwer! 23 cm lange Zähne! Genug gesagt!
+    6 Tonnen schwer! 23 cm lange Zähne! Genug gesagt!
 * #### Pteranodon: 
     10 Meter Spannweite reißen Dich vom Boden!
 * #### Dilophosaurus:
