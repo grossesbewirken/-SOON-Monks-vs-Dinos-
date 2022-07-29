@@ -7,15 +7,15 @@ ghdfjg kldsfghl hdfkkghl sdflkgdfh hgklsdfj ghldfgh sdfhgsdfklghfsdkjlgfdh gfdg 
 ## The Dinos
 ghdfjg kldsfghl hdfkkghl sdflkgdfh hgklsdfj ghldfgh sdfhgsdfklghfsdkjlgfdh gfdg sdfklghkksdf kglsdfg hdsfklghdfslghd fklgdfg dfklghdsk sdfghlkgh dfshgk hdflskg hsdfklghsdfklg
 
-* ### Ankylosaurus: 
+* #### Ankylosaurus: 
     Der "lebende Panzer" ist extrem schwer zu knacken! ghdfjg kldsfghl hdfkkghl sdflkgdfh hgklsdfj ghldfgh sdfhgsdfklghfsdkjlgfdh gfdg sdfklghkksdf kglsdfg hdsfklghdfslghd fklgdfg dfklghdsk sdfghlkgh dfshgk hdflskg hsdfklghsdfklgfdsfsafadsdfsaf
-* ### Tyrannosaurus Rex:
+* #### Tyrannosaurus Rex:
     6 Tonnen schwer! 23 cm lange Zähne! Genug gesagt!
-* ### Pteranodon: 
+* #### Pteranodon: 
     10 Meter Spannweite reißen Dich vom Boden!
-* ### Dilophosaurus:
+* #### Dilophosaurus:
     Du willst Säure in die Augen? Kein Problem!
-* ### Veloceraptor: 
+* #### Veloceraptor: 
     Mit Sichelkralle in den Magen umdrehen? Geht ganz schnell!
 
 ghdfjg kldsfghl hdfkkghl sdflkgdfh hgklsdfj ghldfgh sdfhgsdfklghfsdkjlgfdh gfdg sdfklghkksdf kglsdfg hdsfklghdfslghd fklgdfg dfklghdsk sdfghlkgh dfshgk hdflskg hsdfklghsdfklg
