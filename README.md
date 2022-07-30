@@ -8,9 +8,9 @@ ghdfjg kldsfghl hdfkkghl sdflkgdfh hgklsdfj ghldfgh sdfhgsdfklghfsdkjlgfdh gfdg 
 ghdfjg kldsfghl hdfkkghl sdflkgdfh hgklsdfj ghldfgh sdfhgsdfklghfsdkjlgfdh gfdg sdfklghkksdf kglsdfg hdsfklghdfslghd fklgdfg dfklghdsk sdfghlkgh dfshgk hdflskg hsdfklghsdfklg
 
 * ### Ankylosaurus: 
-    -> Höhe: 1.70m
-    -> Länge: 6m - 8m
-    -> Gewicht: 4.8t - 8t
+    + -> Höhe: 1.70m
+    + -> Länge: 6m - 8m
+    + -> Gewicht: 4.8t - 8t
     Der "lebende Panzer" ist nahezu unverwundbar. Sein Angriff ist zwar der langsamste, aber mit einem Schwanzende wie eine Abrissbirne auch der heftigste.
 * ### Tyrannosaurus Rex:
     -> Höhe: 4m - 6m
