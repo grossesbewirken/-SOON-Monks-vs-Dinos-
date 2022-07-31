@@ -140,7 +140,7 @@ const monkChopstickCharlie = {
 // MONK-5:
 const monkLongswordLewis = {
     name: "Longsword Lewis",
-    nickname: "Phý Nel Kâd",
+    nickname: "Phý Nel Kâdd",
     specialName: "",
 
     weight: 110,
