@@ -10,7 +10,6 @@ Diese furchtlosen Fünf kommen aus dem abgelegensten Kloster im Himalaya. Sie ne
 * **"Chopstick Charlie""**  -  *Innja Phêyz*
 * **"Longsword Lewis"**     -  *Phý Nel Kâdd*
 
-
 ## The Dinos
 Die tödlichsten Dinosaurier aller Zeiten haben Geschmack an uns gefunden. Und sie lieben es, zu gewinnen.
 
@@ -19,7 +18,6 @@ Die tödlichsten Dinosaurier aller Zeiten haben Geschmack an uns gefunden. Und s
 * **"Pteranodon"**          -  *Der Tod aus der Luft*
 * **"Dilophosaurus"**       -  *Die Giftspritze*
 * **"Veloceraptor"**        -  *Die Sichelkralle*
-
 
 ## Kampfmodi
 ghdfjg kldsfghl hdfkkghl sdflkgdfh hgklsdfj ghldfgh sdfhgsdfklghfsdkjlgfdh gfdg sdfklghkksdf kglsdfg hdsfklghdfslghd fklgdfg dfklghdsk sdfghlkgh dfshgk hdflskg hsdfklghsdfklg

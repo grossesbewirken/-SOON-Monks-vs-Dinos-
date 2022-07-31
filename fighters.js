@@ -1,151 +1,196 @@
-// T H E   D E A D L Y   D I N O S
-// DINO-1:
-const ankylosaurus = {
-    name: "Ankylosaurus",
-    nickname: "Der lebende Panzer",
+// D I N O - 1 ---------------------------------
 
-    weight: 7500,
-    height: 170,
-    length: 800,
+const ankylosaurus = {
+    name:           "Ankylosaurus",
+    nickname:       "Der lebende Panzer",
+    description:    "weight: 7500, height: 170, length: 800",
+    critAttackName: "Rolling Stone",
+    critBlockName:  "",
 
     live: 100,
+    attack: 5,
+    block: 5,
+    speed: 1,
     minDamage: 100,
     maxDamage: 100,
-
-    critAttackName: "Rolling Stone",
-    critBlockName: "",
 };
 
 
 
-// DINO-2:
+
+// D I N O - 2 ---------------------------------
+
 const tyrannosaurus = {
-    name: "Tyrannosaurus Rex",
-    nickname: "Der König",
-
-    weight: 6000,
-    height: 600,
-    length: 1000,
-
+    name:           "Tyrannosaurus Rex",
+    nickname:       "Der König",
+    description:    "weight: 6000, height: 600, length: 1000",
     critAttackName: "Loud 'n' Proud",
-    critBlockName: "",
+    critBlockName:  "",
+
+    live: 100,
+    attack: 5,
+    block: 5,
+    speed: 1,
+    minDamage: 100,
+    maxDamage: 100,
 };
 
 
 
-// DINO-3:
+
+// D I N O - 3 ---------------------------------
+
 const dilophosaurus = {
-    name: "Dilophosaurus",
-    nickname: "Die Giftspritze",
-
-    weight: 450,
-    height: 300,
-    length: 700,
-
+    name:           "Dilophosaurus",
+    nickname:       "Die Giftspritze",
+    description:    "weight: 450, height: 300, length: 700",
     critAttackName: "Black Eyed Piece",
-    critBlockName: "",
+    critBlockName:  "",
+
+    live: 100,
+    attack: 5,
+    block: 5,
+    speed: 1,
+    minDamage: 100,
+    maxDamage: 100,
 };
 
 
 
-// DINO-4:
+
+// D I N O - 4 ---------------------------------
+
 const pteranodon = {
-    name: "Pteranodon",
-    nickname: "Der Tod aus der Luft",
-
-    weight: 35,
-    height: 300,
-    length: 350,
-    wings: 1100,
-
+    name:           "Pteranodon",
+    nickname:       "Der Tod aus der Luft",
+    description:    "weight: 35, height: 300, length: 350, wings: 1100",
     critAttackName: "Gravity Sucks",
-    critBlockName: "",
+    critBlockName:  "",
+
+    live: 100,
+    attack: 5,
+    block: 5,
+    speed: 1,
+    minDamage: 100,
+    maxDamage: 100,
 };
 
 
 
-// DINO-5:
+
+// D I N O - 5 ---------------------------------
+
 const veloceraptor = {
-    name: "Veloceraptor",
-    nickname: "Die Sichelkralle",
-
-    weight: 15,
-    height: 300,
-    length: 250,
-
+    name:           "Veloceraptor",
+    nickname:       "Die Sichelkralle",
+    description:    "weight: 15, height: 300, length: 250",
     critAttackName: "Band of Brothers",
-    critBlockName: "",
+    critBlockName:  "",
+
+    live: 100,
+    attack: 5,
+    block: 5,
+    speed: 1,
+    minDamage: 100,
+    maxDamage: 100,
 };
 
 
 
 
-// T H E   M I G H T Y   M O N K S
-// MONK-1:
+// M O N K - 1 ---------------------------------
+
 const monkRockSolidRocky =  {
-    name: "Rock Solid Rocky",
-    nickname: "Yú Ken Tmûh Phmí",
-
-    weight: 180,
-    height: 200,
-
+    name:           "Rock Solid Rocky",
+    nickname:       "Yú Ken Tmûh Phmí",
+    description:    "weight: 180, height: 200",
     critAttackName: "Rolling Stone",
-    critBlockName: "Beiß auf Granit Block",
+    critBlockName:  "Beiß auf Granit Block",
+
+    live: 100,
+    attack: 5,
+    block: 5,
+    speed: 1,
+    minDamage: 100,
+    maxDamage: 100,
 };
 
 
 
-// MONK-2:
+
+// M O N K - 2 ---------------------------------
+
 const monkThunderPunchTheo = {
-    name: "Thunder Punch Theo",
-    nickname: "Lâng Zhuù",
-
-    weight: 95,
-    height: 180,
-
+    name:           "Thunder Punch Theo",
+    nickname:       "Lâng Zhuù",
+    description:    "weight: 95, height: 180",
     critAttackName: "Wie die Faust auf's Auge",
-    critBlockName: "Iron Fist Block",
+    critBlockName:  "Iron Fist Block",
+
+    live: 100,
+    attack: 5,
+    block: 5,
+    speed: 1,
+    minDamage: 100,
+    maxDamage: 100,
 };
 
 
 
-// MONK-3:
+
+// M O N K - 3 ---------------------------------
+
 const monkBattleStaffBarney = {
-    name: "Battle Staff Barney",
-    nickname: "Hôu Drôuw",
-
-    weight: 95,
-    height: 190,
-
+    name:           "Battle Staff Barney",
+    nickname:       "Hôu Drôuw",
+    description:    "weight: 95, height: 190",
     critAttackName: "Stock im Arsch",
-    critBlockName: "Kein Weg dran vorbei",
+    critBlockName:  "Kein Weg dran vorbei",
+
+    live: 100,
+    attack: 5,
+    block: 5,
+    speed: 1,
+    minDamage: 100,
+    maxDamage: 100,
 };
 
 
 
-// MONK-4:
+
+// M O N K - 4 ---------------------------------
+
 const monkChopstickCharlie = {
-    name: "Chopstick Charlie",
-    nickname: "Innja Phêyz",
-
-    weight: 80,
-    height: 170,
-
+    name:           "Chopstick Charlie",
+    nickname:       "Innja Phêyz",
+    description:    "weight: 80, height: 170",
     critAttackName: "Bulls Eye",
-    critBlockName: "Pick it up",
+    critBlockName:  "Pick it up",
+
+    live: 100,
+    attack: 5,
+    block: 5,
+    speed: 1,
+    minDamage: 100,
+    maxDamage: 100,
 };
 
 
 
-// MONK-5:
+
+// M O N K - 5 ---------------------------------
+
 const monkLongswordLewis = {
-    name: "Longsword Lewis",
-    nickname: "Phý Nel Kâdd",
-    specialName: "",
-
-    weight: 110,
-    height: 200,
-
+    name:           "Longsword Lewis",
+    nickname:       "Phý Nel Kâdd",
+    description:    "weight: 110, height: 200",
     critAttackName: "",
     critBlockName: "",
+
+    live: 100,
+    attack: 5,
+    block: 5,
+    speed: 1,
+    minDamage: 100,
+    maxDamage: 100,
 };
