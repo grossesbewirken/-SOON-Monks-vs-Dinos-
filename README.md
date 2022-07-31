@@ -2,7 +2,7 @@
 Du beantwortest die größte Frage der Menschheitsgeschichte! Wer gewinnt beim Kampf "Mönch gegen Dinosaurier"? In dieser JavaScript-Arena treten die fünf härtesten Shaolin-Mönche gegen die fünf tödlichsten Dinosaurier an.
 
 ## The Monks
-Wir haben die ganze Welt bereist und jedes Kloster besucht. Diese furchtlosen Fünf werden den Kampf aufnehmen.
+Diese furchtlosen Fünf kommen aus dem abgelegensten Kloster des Himalayas. Und sie werden den Kampf aufnehmen.
 
 * **"Rock Solid Rocky"**    -  *Yú Ken Tmûh Phmí*
 * **"Thunder Punch Theo"**  -  *Lâng Zhuù*
@@ -12,7 +12,7 @@ Wir haben die ganze Welt bereist und jedes Kloster besucht. Diese furchtlosen F�
 
 
 ## The Dinos
-Sie gehören zu den größten, schwersten und tödlichsten Dinos aller Zeiten. Und sie werden beweisen, dass wir das zu Recht über sie denken.
+Sie gehören zu den tödlichsten Dinos aller Zeiten. Und sie haben Geschmack an uns gefunden. 
 
 * **"Ankylosaurus"**        -  *Der lebende Panzer*
 * **"Tyrannosaurus Rex"**   -  *Der König*
