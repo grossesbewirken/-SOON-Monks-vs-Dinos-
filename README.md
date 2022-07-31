@@ -5,20 +5,20 @@ Du beantwortet die größte Frage der Menschheitsgeschichte! Wer gewinnt bei dem
 ghdfjg kldsfghl hdfkkghl sdflkgdfh hgklsdfj ghldfgh sdfhgsdfklghfsdkjlgfdh gfdg sdfklghkksdf kglsdfg hdsfklghdfslghd fklgdfg dfklghdsk sdfghlkgh dfshgk hdflskg hsdfklghsdfklg
 
 
-## **The Monks**
+## The Monks
 Wir haben die ganze Welt bereist und jedes Kloster besucht, um jene zu finden, um selbst einen Dinosaurier zu bezwingen. Und durch Dich werden
 
-* **"Rock Solid Rocky"**  -  *Der Fels*
+* **"Rock Solid Rocky"**    -  *Yú Ken Tmûh Phmí*
 * **"Thunder Punch Theo"**  -  *Lâng Zhuù*
-* **"Battle Staff Barney"**  - *Der Schlag*
-* **"Chopstick Charlie""**  -  *Der Hagelsturm*
-* **"Longsword Lewis"**  -  *Der Schnitter*
+* **"Battle Staff Barney"** -  *Hôu Drôuw*
+* **"Chopstick Charlie""**  -  *Innja Phêyz*
+* **"Longsword Lewis"**     -  *Phý Nel Kâd*
 
 ## The Dinos
 Wir haben die Welt bereist und jedes Kloster besucht, um jene zu finden, die es mit 
 
-* **"Ankylosaurus"**  -  *Der lebende Panzer*
-* **"Tyrannosaurus Rex"**  -  *Der König*
-* **"Pteranodon"**  -  *Der Tod aus der Luft*
-* **"Dilophosaurus"**  -  *Die Giftspritze*
-* **"Veloceraptor"**  -  *Die Sichelkralle*
+* **"Ankylosaurus"**        -  *Der lebende Panzer*
+* **"Tyrannosaurus Rex"**   -  *Der König*
+* **"Pteranodon"**          -  *Der Tod aus der Luft*
+* **"Dilophosaurus"**       -  *Die Giftspritze*
+* **"Veloceraptor"**        -  *Die Sichelkralle*

@@ -98,7 +98,7 @@ const monkRockSolidRocky =  {
 // MONK-2:
 const monkThunderPunchTheo = {
     name: "Thunder Punch Theo",
-    nickname: "Innja Phêyz",
+    nickname: "Lâng Zhuù",
 
     weight: 95,
     height: 180,
@@ -112,7 +112,7 @@ const monkThunderPunchTheo = {
 // MONK-3:
 const monkBattleStaffBarney = {
     name: "Battle Staff Barney",
-    nickname: "",
+    nickname: "Hôu Drôuw",
 
     weight: 95,
     height: 190,
@@ -126,7 +126,7 @@ const monkBattleStaffBarney = {
 // MONK-4:
 const monkChopstickCharlie = {
     name: "Chopstick Charlie",
-    nickname: "Píket Âbb",
+    nickname: "Innja Phêyz",
 
     weight: 80,
     height: 170,
