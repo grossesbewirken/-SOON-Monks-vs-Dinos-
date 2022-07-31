@@ -12,7 +12,7 @@ Diese furchtlosen Fünf kommen aus dem abgelegensten Kloster des Himalayas. Und 
 
 
 ## The Dinos
-Sie gehören zu den tödlichsten Dinos aller Zeiten. Sie haben Geschmack an uns gefunden und lieben es, zu gewinnen. 
+Die tödlichsten Dinosaurier aller Zeiten haben Geschmack an uns gefunden. Und sie lieben es, zu gewinnen.
 
 * **"Ankylosaurus"**        -  *Der lebende Panzer*
 * **"Tyrannosaurus Rex"**   -  *Der König*
