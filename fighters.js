@@ -11,8 +11,7 @@ const dinoAnkylosaurus = {
     attack: 5,
     block: 5,
     speed: 1,
-    minDamage: 100,
-    maxDamage: 100,
+    damage: 100,
 };
 
 
@@ -31,8 +30,7 @@ const dinoTyrannosaurus = {
     attack: 5,
     block: 5,
     speed: 1,
-    minDamage: 100,
-    maxDamage: 100,
+    damage: 100,
 };
 
 
@@ -51,8 +49,7 @@ const dinoDilophosaurus = {
     attack: 5,
     block: 5,
     speed: 1,
-    minDamage: 100,
-    maxDamage: 100,
+    damage: 100,
 };
 
 
@@ -71,8 +68,7 @@ const dinoPteranodon = {
     attack: 5,
     block: 5,
     speed: 1,
-    minDamage: 100,
-    maxDamage: 100,
+    damage: 100,
 };
 
 
@@ -91,8 +87,7 @@ const dinoVeloceraptor = {
     attack: 5,
     block: 5,
     speed: 1,
-    minDamage: 100,
-    maxDamage: 100,
+    damage: 100,
 };
 
 
@@ -111,8 +106,7 @@ const monkRockSolidRocky =  {
     attack: 5,
     block: 5,
     speed: 1,
-    minDamage: 100,
-    maxDamage: 100,
+    damage: 100,
 };
 
 
@@ -131,8 +125,7 @@ const monkThunderPunchTheo = {
     attack: 5,
     block: 5,
     speed: 1,
-    minDamage: 100,
-    maxDamage: 100,
+    damage: 100,
 };
 
 
@@ -151,8 +144,7 @@ const monkBattleStaffBarney = {
     attack: 5,
     block: 5,
     speed: 1,
-    minDamage: 100,
-    maxDamage: 100,
+    damage: 100,
 };
 
 
@@ -171,8 +163,7 @@ const monkChopstickCharlie = {
     attack: 5,
     block: 5,
     speed: 1,
-    minDamage: 100,
-    maxDamage: 100,
+    damage: 100,
 };
 
 
@@ -191,6 +182,5 @@ const monkLongswordLewis = {
     attack: 5,
     block: 5,
     speed: 1,
-    minDamage: 100,
-    maxDamage: 100,
+    damage: 100,
 };
