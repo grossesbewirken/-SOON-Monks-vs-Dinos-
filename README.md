@@ -6,7 +6,7 @@ ghdfjg kldsfghl hdfkkghl sdflkgdfh hgklsdfj ghldfgh sdfhgsdfklghfsdkjlgfdh gfdg 
 
 
 ## The Monks
-Wir haben die ganze Welt bereist und jedes Kloster besucht, um jene zu finden, um selbst einen Dinosaurier zu bezwingen. Und durch Dich werden
+Wir haben die ganze Welt bereist, jedes Kloster besucht um jene zu finden, die es mit Dinosauriern aufnehmen können. Diese furchtlosen Fünf werden den Kampf aufnehmen.
 
 * **"Rock Solid Rocky"**    -  *Yú Ken Tmûh Phmí*
 * **"Thunder Punch Theo"**  -  *Lâng Zhuù*
@@ -15,7 +15,7 @@ Wir haben die ganze Welt bereist und jedes Kloster besucht, um jene zu finden, u
 * **"Longsword Lewis"**     -  *Phý Nel Kâd*
 
 ## The Dinos
-Wir haben die Welt bereist und jedes Kloster besucht, um jene zu finden, die es mit 
+Sie gehören zu den größten, schwersten und gefährlichsten ihrer Art. Sie versetzen die Welt in Angst um Schrecken. 
 
 * **"Ankylosaurus"**        -  *Der lebende Panzer*
 * **"Tyrannosaurus Rex"**   -  *Der König*
