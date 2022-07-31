@@ -15,7 +15,7 @@ Wir haben die ganze Welt bereist, jedes Kloster besucht um jene zu finden, die e
 * **"Longsword Lewis"**     -  *Phý Nel Kâd*
 
 ## The Dinos
-Sie gehören zu den größten, schwersten und gefährlichsten ihrer Art. Sie versetzen die Welt in Angst um Schrecken. 
+Sie gehören zu den größten, schwersten und tödlichsten Dinos aller Zeiten. Und sie werden beweisen, dass wir das zu Recht über sie denken.
 
 * **"Ankylosaurus"**        -  *Der lebende Panzer*
 * **"Tyrannosaurus Rex"**   -  *Der König*
