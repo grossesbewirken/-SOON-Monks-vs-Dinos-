@@ -20,4 +20,4 @@ Die tödlichsten Dinosaurier aller Zeiten haben Geschmack an uns gefunden. Und s
 * **"Veloceraptor"**        -  *Die Sichelkralle*
 
 ## Kampfmodi
-ghdfjg kldsfghl hdfkkghl sdflkgdfh hgklsdfj ghldfgh sdfhgsdfklghfsdkjlgfdh gfdg sdfklghkksdf kglsdfg hdsfklghdfslghd fklgdfg dfklghdsk sdfghlkgh dfshgk hdflskg hsdfklghsdfklg
+* **"Monk-vs-Dino"**        -  *Eins gegen Eins*
