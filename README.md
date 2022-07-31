@@ -7,18 +7,19 @@ ghdfjg kldsfghl hdfkkghl sdflkgdfh hgklsdfj ghldfgh sdfhgsdfklghfsdkjlgfdh gfdg 
 ## The Dinos
 ghdfjg kldsfghl hdfkkghl sdflkgdfh hgklsdfj ghldfgh sdfhgsdfklghfsdkjlgfdh gfdg sdfklghkksdf kglsdfg hdsfklghdfslghd fklgdfg dfklghdsk sdfghlkgh dfshgk hdflskg hsdfklghsdfklg
 
-* ##**"Ankylosaurus"**##  -  *Der lebende Panzer*
-* ##**"Tyrannosaurus Rex"**##  -  *Der König*
-* ##**"Pteranodon"**##  -  *Der Tod aus der Luft*
-* ##**"Dilophosaurus"**##  -  *Die Giftspritze*
-* ##**"Veloceraptor"**##  -  *Die Sichelkralle*
+* **"Ankylosaurus"**  -  *Der lebende Panzer*
+* **"Tyrannosaurus Rex"**  -  *Der König*
+* **"Pteranodon"**  -  *Der Tod aus der Luft*
+* **"Dilophosaurus"**  -  *Die Giftspritze*
+* **"Veloceraptor"**  -  *Die Sichelkralle*
 
 
 ## The Monks
-ghdfjg kldsfghl hdfkkghl sdflkgdfh hgklsdfj ghldfgh sdfhgsdfklghfsdkjlgfdh gfdg sdfklghkksdf kglsdfg hdsfklghdfslghd fklgdfg dfklghdsk sdfghlkgh dfshgk hdflskg hsdfklghsdfklg
 
 * **"Rock Solid Rocky"**  -  *Der Fels*
-* **"Thunder Punch Theo"**  -  *Der Hammer*
+* **"Thunder Punch Theo"**  -  *Lâng Zhuù*
 * **"Battle Staff Barney"**  - *Der Schlag*
 * **"Chopstick Charlie""**  -  *Der Hagelsturm*
 * **"Longsword Lewis"**  -  *Der Schnitter*
+
+    ghdfjg kldsfghl hdfkkghl sdflkgdfh hgklsdfj ghldfgh sdfhgsdfklghfsdkjlgfdh gfdg sdfklghkksdf kglsdfg hdsfklghdfslghd fklgdfg dfklghdsk sdfghlkgh dfshgk hdflskg hsdfklghsdfklg
