@@ -1,5 +1,5 @@
 # Monks Against Dinos
-Wer gewinnt beim Kampf "Mönch gegen Dinosaurier"? Endlich wird die größte Frage der Menschheits-Geschichte beantwortet. Hier und jetzt! In dieser JavaScript-Arena.
+Wer gewinnt beim Kampf "Mönch gegen Dinosaurier"? Endlich wird die größte Frage der Menschheits-Geschichte beantwortet. Hier und jetzt! In dieser JavaScript-Arena!
 
 ## The Monks
 Diese furchtlosen Fünf kommen aus dem abgelegensten Kloster im Himalaya. Sie nehmen den Kampf für uns auf.
