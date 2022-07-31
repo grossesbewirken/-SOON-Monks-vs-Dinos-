@@ -5,7 +5,9 @@ Du beantwortet die größte Frage der Menschheitsgeschichte! Wer gewinnt bei dem
 ghdfjg kldsfghl hdfkkghl sdflkgdfh hgklsdfj ghldfgh sdfhgsdfklghfsdkjlgfdh gfdg sdfklghkksdf kglsdfg hdsfklghdfslghd fklgdfg dfklghdsk sdfghlkgh dfshgk hdflskg hsdfklghsdfklg
 
 ## The Dinos
-* **"Ankylosaurus"**  -  *Der lebende Panzer*
+ghdfjg kldsfghl hdfkkghl sdflkgdfh hgklsdfj ghldfgh sdfhgsdfklghfsdkjlgfdh gfdg sdfklghkksdf kglsdfg hdsfklghdfslghd fklgdfg dfklghdsk sdfghlkgh dfshgk hdflskg hsdfklghsdfklg
+
+* *"Ankylosaurus"*  -  *Der lebende Panzer*
 * **"Tyrannosaurus Rex"**  -  *Der König*
 * **"Pteranodon"**  -  *Der Tod aus der Luft*
 * **"Dilophosaurus"**  -  *Die Giftspritze*
@@ -20,5 +22,3 @@ ghdfjg kldsfghl hdfkkghl sdflkgdfh hgklsdfj ghldfgh sdfhgsdfklghfsdkjlgfdh gfdg 
 * **"Battle Staff Barney"**  - *Der Schlag*
 * **"Chopstick Charlie""**  -  *Der Hagelsturm*
 * **"Longsword Lewis"**  -  *Der Schnitter*
-
-ghdfjg kldsfghl hdfkkghl sdflkgdfh hgklsdfj ghldfgh sdfhgsdfklghfsdkjlgfdh gfdg sdfklghkksdf kglsdfg hdsfklghdfslghd fklgdfg dfklghdsk sdfghlkgh dfshgk hdflskg hsdfklghsdfklg
