@@ -1,6 +1,6 @@
 // D I N O - 1 ---------------------------------
 
-const ankylosaurus = {
+const dinoAnkylosaurus = {
     name:           "Ankylosaurus",
     nickname:       "Der lebende Panzer",
     description:    "weight: 7500, height: 170, length: 800",
@@ -20,7 +20,7 @@ const ankylosaurus = {
 
 // D I N O - 2 ---------------------------------
 
-const tyrannosaurus = {
+const dinoTyrannosaurus = {
     name:           "Tyrannosaurus Rex",
     nickname:       "Der König",
     description:    "weight: 6000, height: 600, length: 1000",
@@ -40,7 +40,7 @@ const tyrannosaurus = {
 
 // D I N O - 3 ---------------------------------
 
-const dilophosaurus = {
+const dinoDilophosaurus = {
     name:           "Dilophosaurus",
     nickname:       "Die Giftspritze",
     description:    "weight: 450, height: 300, length: 700",
@@ -60,7 +60,7 @@ const dilophosaurus = {
 
 // D I N O - 4 ---------------------------------
 
-const pteranodon = {
+const dinoPteranodon = {
     name:           "Pteranodon",
     nickname:       "Der Tod aus der Luft",
     description:    "weight: 35, height: 300, length: 350, wings: 1100",
@@ -80,7 +80,7 @@ const pteranodon = {
 
 // D I N O - 5 ---------------------------------
 
-const veloceraptor = {
+const dinoVeloceraptor = {
     name:           "Veloceraptor",
     nickname:       "Die Sichelkralle",
     description:    "weight: 15, height: 300, length: 250",
