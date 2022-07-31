@@ -1,5 +1,5 @@
 # Monks Against Dinos
-Du beantwortest die größte Frage der Menschheitsgeschichte! Wer gewinnt beim Kampf "Mönch gegen Dinosaurier"? In dieser JavaScript-Arena treten die fünf härtesten Shaolin-Mönche gegen die fünf tödlichsten Dinosaurier an.
+Wer gewinnt beim Kampf "Mönch gegen Dinosaurier"? Endlich wird die größte Frage der Menschheitsgeschichte beantwortet. Danke Dir und ein klein bisschen JavaScript.
 
 ## The Monks
 Diese furchtlosen Fünf kommen aus dem abgelegensten Kloster im Himalaya. Sie nehmen den Kampf für uns auf.
