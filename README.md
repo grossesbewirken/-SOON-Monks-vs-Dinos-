@@ -15,8 +15,8 @@ ghdfjg kldsfghl hdfkkghl sdflkgdfh hgklsdfj ghldfgh sdfhgsdfklghfsdkjlgfdh gfdg 
 ## The Monks
 ghdfjg kldsfghl hdfkkghl sdflkgdfh hgklsdfj ghldfgh sdfhgsdfklghfsdkjlgfdh gfdg sdfklghkksdf kglsdfg hdsfklghdfslghd fklgdfg dfklghdsk sdfghlkgh dfshgk hdflskg hsdfklghsdfklg
 
-    * **"Rock Solid Rocky"** - Der Fels
-    **"Thunder Punch Theo"** - Der Hammer
+* **"Rock Solid Rocky"** - Der Fels
+* **"Thunder Punch Theo"** - Der Hammer
 * **"Battle Staff Barney"** - Der Schlag
 * **"Chopstick Charlie"** - Der Hagelsturm
 * **"Longsword Lewis"**- Der Schnitter
