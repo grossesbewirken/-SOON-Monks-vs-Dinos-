@@ -4,21 +4,21 @@ Du beantwortet die größte Frage der Menschheitsgeschichte! Wer gewinnt bei dem
 ## Subheadline
 ghdfjg kldsfghl hdfkkghl sdflkgdfh hgklsdfj ghldfgh sdfhgsdfklghfsdkjlgfdh gfdg sdfklghkksdf kglsdfg hdsfklghdfslghd fklgdfg dfklghdsk sdfghlkgh dfshgk hdflskg hsdfklghsdfklg
 
-## The Dinos
-ghdfjg kldsfghl hdfkkghl sdflkgdfh hgklsdfj ghldfgh sdfhgsdfklghfsdkjlgfdh gfdg sdfklghkksdf kglsdfg hdsfklghdfslghd fklgdfg dfklghdsk sdfghlkgh dfshgk hdflskg hsdfklghsdfklg
 
-* **"Ankylosaurus"**  -  *Der lebende Panzer*
-* **"Tyrannosaurus Rex"**  -  *Der König*
-* **"Pteranodon"**  -  *Der Tod aus der Luft*
-* **"Dilophosaurus"**  -  *Die Giftspritze*
-* **"Veloceraptor"**  -  *Die Sichelkralle*
-
-
-## The Monks
-ghdfjg kldsfghl hdfkkghl sdflkgdfh hgklsdfj ghldfgh sdfhgsdfklghfsdkjlgfdh gfdg sdfklghkksdf kglsdfg hdsfklghdfslghd fklgdfg dfklghdsk sdfghlkgh dfshgk hdflskg hsdfklghsdfklg
+## **The Monks**
+Wir haben die ganze Welt bereist und jedes Kloster besucht, um jene zu finden, um selbst einen Dinosaurier zu bezwingen. Und durch Dich werden
 
 * **"Rock Solid Rocky"**  -  *Der Fels*
 * **"Thunder Punch Theo"**  -  *Lâng Zhuù*
 * **"Battle Staff Barney"**  - *Der Schlag*
 * **"Chopstick Charlie""**  -  *Der Hagelsturm*
 * **"Longsword Lewis"**  -  *Der Schnitter*
+
+## The Dinos
+Wir haben die Welt bereist und jedes Kloster besucht, um jene zu finden, die es mit 
+
+* **"Ankylosaurus"**  -  *Der lebende Panzer*
+* **"Tyrannosaurus Rex"**  -  *Der König*
+* **"Pteranodon"**  -  *Der Tod aus der Luft*
+* **"Dilophosaurus"**  -  *Die Giftspritze*
+* **"Veloceraptor"**  -  *Die Sichelkralle*
