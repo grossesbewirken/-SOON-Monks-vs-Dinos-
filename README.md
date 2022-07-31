@@ -5,11 +5,11 @@ Du beantwortet die größte Frage der Menschheitsgeschichte! Wer gewinnt bei dem
 ghdfjg kldsfghl hdfkkghl sdflkgdfh hgklsdfj ghldfgh sdfhgsdfklghfsdkjlgfdh gfdg sdfklghkksdf kglsdfg hdsfklghdfslghd fklgdfg dfklghdsk sdfghlkgh dfshgk hdflskg hsdfklghsdfklg
 
 ## The Dinos
-* "Ankylosaurus"
-* "Tyrannosaurus Rex"
-* "Pteranodon"
-* "Dilophosaurus"
-* "Veloceraptor"
+* **"Ankylosaurus"** - Der lebende Panzer
+* **"Tyrannosaurus Rex"** - Der König
+* **"Pteranodon"** - Der Tod aus der Luft
+* **"Dilophosaurus"** - Die Giftspritze
+* **"Veloceraptor"** - Die Sichelkralle
 
 
 ## The Monks
