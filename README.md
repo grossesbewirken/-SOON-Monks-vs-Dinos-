@@ -7,7 +7,7 @@ ghdfjg kldsfghl hdfkkghl sdflkgdfh hgklsdfj ghldfgh sdfhgsdfklghfsdkjlgfdh gfdg 
 ## The Dinos
 ghdfjg kldsfghl hdfkkghl sdflkgdfh hgklsdfj ghldfgh sdfhgsdfklghfsdkjlgfdh gfdg sdfklghkksdf kglsdfg hdsfklghdfslghd fklgdfg dfklghdsk sdfghlkgh dfshgk hdflskg hsdfklghsdfklg
 
-* *"Ankylosaurus"*  -  *Der lebende Panzer*
+* **"Ankylosaurus"**  -  *Der lebende Panzer*
 * **"Tyrannosaurus Rex"**  -  *Der König*
 * **"Pteranodon"**  -  *Der Tod aus der Luft*
 * **"Dilophosaurus"**  -  *Die Giftspritze*
