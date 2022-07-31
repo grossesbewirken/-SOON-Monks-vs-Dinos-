@@ -5,25 +5,20 @@ Du beantwortet die größte Frage der Menschheitsgeschichte! Wer gewinnt bei dem
 ghdfjg kldsfghl hdfkkghl sdflkgdfh hgklsdfj ghldfgh sdfhgsdfklghfsdkjlgfdh gfdg sdfklghkksdf kglsdfg hdsfklghdfslghd fklgdfg dfklghdsk sdfghlkgh dfshgk hdflskg hsdfklghsdfklg
 
 ## The Dinos
-* Ankylosaurus
-* Tyrannosaurus Rex
-* Pteranodon
-* Dilophosaurus
-* Veloceraptor
+* "Ankylosaurus"
+* "Tyrannosaurus Rex"
+* "Pteranodon"
+* "Dilophosaurus"
+* "Veloceraptor"
 
 
 ## The Monks
 ghdfjg kldsfghl hdfkkghl sdflkgdfh hgklsdfj ghldfgh sdfhgsdfklghfsdkjlgfdh gfdg sdfklghkksdf kglsdfg hdsfklghdfslghd fklgdfg dfklghdsk sdfghlkgh dfshgk hdflskg hsdfklghsdfklg
 
-* ### "Rock Solid Rocky"**:
-    Der unerschütterliche Fels in der Brandung
-* ### "Thunder Punch Theo": 
-    Sein Handschlag spaltet alles
-* ### "Battle Staff Barney": 
-    Dir immer eine Stablänge voraus
-* ### "Chopstick Charlie":** 
-    Der Hagelsturm aus der Küche
-* ### "Longsword Lewis":
-    Dinos haben Krallen, wir haben ihn!
+* "Rock Solid Rocky" - **Der Fels**
+* "Thunder Punch Theo" - **Der Hammer**
+* "Battle Staff Barney" - **Der Schlag**
+* "Chopstick Charlie" - **Der Hagelsturm**
+* "Longsword Lewis"- **Der Schnitter**
 
 ghdfjg kldsfghl hdfkkghl sdflkgdfh hgklsdfj ghldfgh sdfhgsdfklghfsdkjlgfdh gfdg sdfklghkksdf kglsdfg hdsfklghdfslghd fklgdfg dfklghdsk sdfghlkgh dfshgk hdflskg hsdfklghsdfklg
