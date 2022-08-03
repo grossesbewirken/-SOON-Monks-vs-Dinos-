@@ -19,5 +19,5 @@ Die tödlichsten Dinosaurier aller Zeiten haben Geschmack an uns gefunden. Und s
 * **"Dilophosaurus"**       -  *Die Giftspritze*
 * **"Veloceraptor"**        -  *Die Sichelkralle*
 
-## Kampfmodi
+## The Kampfmodi
 * **"Monk-vs-Dino"**        -  *Eins gegen Eins*
