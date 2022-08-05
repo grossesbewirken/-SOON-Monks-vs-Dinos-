@@ -4,8 +4,14 @@ const dinoAnkylosaurus = {
     name:           "Ankylosaurus",
     nickname:       "Der lebende Panzer",
     description:    "weight: 7500, height: 170, length: 800",
-    critAttackName: "Rolling Stone",
+    critAttackName: "Wrecking Ball",
     critBlockName:  "",
+
+    description:
+    `ANKYLOSAURUS: Länge: ca 9.3m / Gewicht: ca 9000kg / Gefahr: Die Abrissbirne\n 
+    Besser bekannt als "Lebender Panzer" ist der Ankylosaurus mit dicken Panzerplatten auf Kopf, Rücken\n
+    und einer verknöcherten Schwanzspitze praktisch unverwundbar.\n
+    Allerdings ist dieses Schwergewicht der langsamste Kontrahent.`,
 
     live: 100,
     attack: 5,
@@ -26,6 +32,12 @@ const dinoTyrannosaurus = {
     critAttackName: "Loud 'n' Proud",
     critBlockName:  "",
 
+    description:
+    `TYRANNOSAURUS REX: Länge: ca. 13m / Höhe: ca. 6m / Gewicht: ca 6000kg / Gefahr: 23cm lange Zähne\n 
+    \n
+    \n
+    .`,
+
     live: 100,
     attack: 5,
     block: 5,
@@ -44,6 +56,12 @@ const dinoDilophosaurus = {
     description:    "weight: 450, height: 300, length: 700",
     critAttackName: "Black Eyed Piece",
     critBlockName:  "",
+
+    description:
+    `DILOPHOSAURUS: Länge: ca. 7m / Höhe: ca. 3m / Gewicht: ca. 450kg / Gefahr: xxx\n 
+    \n
+    \n
+    .`,
 
     live: 100,
     attack: 5,
@@ -64,6 +82,12 @@ const dinoPteranodon = {
     critAttackName: "Gravity Sucks",
     critBlockName:  "",
 
+    description:
+    `PTERANODON: Länge: xxx / Höhe: ca. xxx / Gewicht: ca. xxx / Gefahr: xxx\n 
+    \n
+    \n
+    .`,
+
     live: 100,
     attack: 5,
     block: 5,
@@ -82,6 +106,12 @@ const dinoVeloceraptor = {
     description:    "weight: 15, height: 300, length: 250",
     critAttackName: "Band of Brothers",
     critBlockName:  "",
+
+    description:
+    `VELOCERAPTOR: Länge: ca. 2m / Höhe: ca. 1m / Gewicht: ca. 15kg / Gefahr: Sichelkralle\n 
+    \n
+    \n
+    .`,
 
     live: 100,
     attack: 5,
@@ -102,6 +132,12 @@ const monkRockSolidRocky =  {
     critAttackName: "Rolling Stone",
     critBlockName:  "Beiß auf Granit Block",
 
+    description:
+    `ROCK SOLID ROCKY: Länge: xxx / Höhe: ca. xxx / Gewicht: ca. 180kg / Gefahr: Unverrückbar\n 
+    \n
+    \n
+    .`,
+
     live: 100,
     attack: 5,
     block: 5,
@@ -120,6 +156,12 @@ const monkThunderPunchTheo = {
     description:    "weight: 95, height: 180",
     critAttackName: "Wie die Faust auf's Auge",
     critBlockName:  "Iron Fist Block",
+
+    description:
+    `THUNDER PUNCH THEO: Länge: xxx / Höhe: ca. xxx / Gewicht: ca. xxx / Gefahr: xxx\n 
+    \n
+    \n
+    .`,
 
     live: 100,
     attack: 5,
@@ -140,6 +182,12 @@ const monkBattleStaffBarney = {
     critAttackName: "Stock im Arsch",
     critBlockName:  "Kein Weg dran vorbei",
 
+    description:
+    `BATTLE STAFF BARNEY: Länge: xxx / Höhe: ca. xxx / Gewicht: ca. xxx / Gefahr: xxx\n 
+    \n
+    \n
+    .`,
+
     live: 100,
     attack: 5,
     block: 5,
@@ -159,6 +207,12 @@ const monkChopstickCharlie = {
     critAttackName: "Bulls Eye",
     critBlockName:  "Pick it up",
 
+    description:
+    `CHOPSTICK CHARLIE: Länge: xxx / Höhe: ca. xxx / Gewicht: ca. xxx / Gefahr: xxx\n 
+    \n
+    \n
+    .`,
+
     live: 100,
     attack: 5,
     block: 5,
@@ -177,6 +231,12 @@ const monkLongswordLewis = {
     description:    "weight: 110, height: 200",
     critAttackName: "",
     critBlockName: "",
+
+    description:
+    `LONGSWORD LEWIS: Länge: xxx / Höhe: ca. xxx / Gewicht: ca. xxx / Gefahr: xxx\n 
+    \n
+    \n
+    .`,
 
     live: 100,
     attack: 5,
